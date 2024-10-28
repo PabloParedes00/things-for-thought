@@ -3,7 +3,7 @@
 Welcome to the official things-for-thought course page!
 There's not much here to see but this:
 
-### 🔮 🗡️ Side Quest 🗡️ 🔮 ### 
+### 😈 Side Quest 😈 ### 
 Until next week, make a pull request to this repository by editing this file!
 There are a couple ways to do it:
 
